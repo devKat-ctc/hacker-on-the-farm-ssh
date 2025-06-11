@@ -27,7 +27,7 @@ These missions can be completed with just your brain — but we recommend doing 
 
 ## 🔓 Challenges 
 
-1. “The Ag Cipher”
+### 1. “The Ag Cipher”
 
 [🔗 File](./logs/ag_cipher.log)
 This one’s for the new operatives. Your mission: crack a friendly message that’s been scrambled into machine-speak. Along the way, you’ll pick up some essential skills:
@@ -37,7 +37,7 @@ Reading a message frame
 Making sense of little vs. big endian formats
 No stress, no rush — just get comfy with the bytes.
 
-2. “Signals in the Noise”
+### 2. “Signals in the Noise”
 
 [🔗 File](./logs/signals.txt)
 For those ready to dive deeper. This challenge drops you into the middle of a digital traffic jam. Your goal: make sense of a data stream from an unknown source. This one sets the tone for what’s coming at the event — decoding, pattern recognition, and protocol intuition.
@@ -53,7 +53,7 @@ How many parameter group numbers are on the network at this time?
 What is the CAN bus load during this time?
 
 
-3. “Breadcrumbs in the Field”
+### 3. “Breadcrumbs in the Field”
 
 Every operation has players, tools, and tactics. Your job is to figure out what — and who — you’re walking into.
 
@@ -65,7 +65,7 @@ Any strategic insights hiding in social posts, GitHub repos, blog write-ups, or 
 If it’s public, it’s fair game. Operatives who know what’s coming are one step ahead.
 
 ---
-### Seth's OSINT Tips
+#### Seth's OSINT Tips
 
 OSINT (Open Source Intelligence) is a fancy term for "research." Skilled hackers don't just know how to use Google or other search engines to find anything publicly available about a person, company, or device, but also know how to tweak their search to show things you'd usually never find publicly. We won't be going too in-depth on how to do this, but we at least want to point you in the right direction for how to perform OSINT on a piece of hardware. We'll also be providing you with the basics of how a tractor’s tech stack works, but learning how we learn about the devices that show up on our desks is crucial to the work you'll be doing the week of CTC and the work out on the field. 
 1) When you have a device that you don't know about, you can start off simply by Googling its identifiers, like its Serial Number, IMEI, etc.) Odds are you'll find the device descriptions from the manufacturer right away.
@@ -73,7 +73,7 @@ OSINT (Open Source Intelligence) is a fancy term for "research." Skilled hackers
 3) The last step you can take is opening it up and looking at the components inside. You can use the same Google approach with the labels found on the microchips and identifying codes on the circuits.
 ---
 
-Bonus Challenge: “Logging the Harvest”
+### Bonus Challenge: “Logging the Harvest”
 
  Welcome to the digital farm, field agent. The sensors are planted, the signals are ripe, and your job is to log the entire yield — from root to shell. Take the given files and write the file to a serial terminal and then save the serial output into a new file.
 
